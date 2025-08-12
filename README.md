@@ -5,7 +5,7 @@ Extract Tiktok Datatime lo que se encarga es de extraer y convertir en horario l
 
 ## Screenshots
 
-![](http://i.ibb.co/996P3NW/Proyecto-nuevo-6.png)
+![](https://i.ibb.co/qMKCDGch/0918028-A-A5-B1-48-A9-8-A00-E917-C433-D72-D.png))
 
 
 ## Demo
